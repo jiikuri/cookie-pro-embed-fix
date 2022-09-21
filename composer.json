@@ -1,0 +1,15 @@
+{
+    "name": "jiikuri/cookie-pro-embed-fix",
+    "type": "wordpress-plugin",
+    "description": "Show a message on the empty video slot",
+    "homepage": "https://github.com/jiikuri/cookie-pro-embed-fix",
+    "keywords": ["wordpress", "plugin"],
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+      {
+        "name": "Kalle Halonen",
+        "email": "halonenkalles@gmail.com"
+      }
+    ]
+  }
